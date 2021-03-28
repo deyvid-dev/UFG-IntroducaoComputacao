@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+
+// Crie um programa que imprima os seguintes dados: Nome, altura e peso da pessoa
+
 int main() {
 
 
